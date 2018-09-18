@@ -16,7 +16,7 @@
     "hoist-non-react-statics": "^2.5.0"
   },
   "peerDependencies": {
-    "react": ">=16"
+    "react": ">=16.5.2"
   },
   "publishConfig": {
     "access": "public"
